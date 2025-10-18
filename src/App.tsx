@@ -146,7 +146,7 @@ function App() {
 				<img
 					src='/banner.png'
 					alt='Birthday Banner'
-					className='absolute top-0 right-10 rotate-12 size-80 lg:size-100 object-contain'
+					className='absolute top-0 right-10 rotate-12 size-80 object-contain'
 				/>
 				<img
 					src='/banner.png'
@@ -189,7 +189,7 @@ function App() {
 				<img
 					src='/suprise.gif'
 					alt='Surprise'
-					className='absolute left-1/2 -translate-x-1/2 top-1/2 -translate-y-1/2 size-80 lg:size-100 object-contain'
+					className='absolute left-1/2 -translate-x-1/2 top-1/2 -translate-y-1/2 size-80 object-contain'
 				/>
 
 				{/* Dark overlay with spotlight effect */}
